@@ -74,7 +74,7 @@ body{
 button:nth-child(4){
     font-size: 20px;
     background-color: #17BC9B;
-    
+
 }
 
 button:nth-child(8){
@@ -95,4 +95,10 @@ button:nth-child(16){
 button:nth-child(20){
     font-size: 20px;
     background-color: #9B58B6;
+}
+
+.credit {
+  color: #ecf0f1;
+  text-align: center;
+  margin: auto;
 }
